@@ -1,0 +1,175 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-primary font-secondary bg-black;
+  }
+  .h1 {
+    @apply text-[54px] lg:text-[108px] font-primary font-bold capitalize leading-[120%] tracking-[-0.05em] mb-2;
+  }
+  .section {
+    @apply h-screen w-screen;
+  }
+  .btn {
+    @apply py-[18px] px-[50px] h-[66px] flex items-center justify-center text-base uppercase font-secondary font-semibold bg-primary text-white;
+  }
+}
+
+header{
+  position: sticky !important;
+  margin-top: -1px !important;
+  width: 100%;
+  height: 75px !important;
+  background: lightskyblue;
+}
+
+#logo{
+  height: 75px;
+  width: auto;
+  display:inline;
+  margin-left: 0px !important;
+}
+
+.mobile{
+  background: lightskyblue;
+}
+
+.socialbutton svg{
+  display:inline !important;
+  align-self:center;
+  margin:3px;
+  width:50px;
+  height:50px;
+}
+
+.heading{
+  align-items:center !important;
+}
+
+.home{
+  height: fit-content;
+  width: 100%;
+}
+
+.about{
+  height: fit-content;
+  width: 100%;
+}
+
+.about-empty{
+  height: 300px;
+}
+
+#yolandebird{
+  width: 400px;
+  height: 350px;
+}
+
+.skills{
+  margin-top: 10px;
+  height: fit-content;
+  width: 100%;
+}
+
+.skills-grid{
+  align-items: center;
+}
+
+.work{
+  height: fit-content;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.block{
+  color:pink;
+  width: fit-content;
+  text-align:center;
+  align-items:center !important;
+}
+
+.block img{
+  height: 150px;
+  width: 150px;
+  display: inline !important;
+}
+
+.block button{
+  text-align:center;
+}
+
+details{
+  font-size:20pt;
+}
+
+.icon{
+  width:150px;
+  height:150px;
+  display:inline;
+  margin:5px;
+}
+
+.icon:hover{
+  scale: 125%;
+  animation-delay: 50ms;
+  animation-duration:500ms !important;
+}
+
+.contact{
+  height: 800px;
+  align-content:center !important;
+}
+
+input, textarea{
+  margin:15px;
+}
+
+.footer{
+  width: 100%;
+  height: 75px;
+  margin-bottom: 0 !important;
+  font-weight: bold;
+  background: lightskyblue;
+  text-align: center;
+  padding-top: 35px;
+  position: relative !important;
+  margin-top: 20px;
+}
+
+.about-footer{
+  width: 100%;
+  height: 75px;
+  margin-bottom: 0 !important;
+  font-weight: bold;
+  background: lightskyblue;
+  text-align: center;
+  padding-top: 35px;
+  position: relative !important;
+  margin-top: 150px;
+}
+
+.work-footer{
+  width: 100%;
+  height: 75px;
+  font-weight: bold;
+  color: black;
+  background: lightskyblue;
+  text-align: center;
+  margin-top: 50px;
+  padding: 30px;
+  position: relative !important;
+  display:block !important;
+}
+
+.contact-footer{
+  margin-top: 75px;
+  width: 100% !important;
+  height: 75px;
+  font-weight: bold;
+  background: lightskyblue;
+  text-align: center;
+  padding-top: 35px;
+  position: relative !important;
+}
