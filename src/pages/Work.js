@@ -420,7 +420,7 @@ export default function Work() {
                                     </div>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -439,7 +439,7 @@ export default function Work() {
                                     </a>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -466,7 +466,7 @@ export default function Work() {
                                     </div>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -561,7 +561,7 @@ export default function Work() {
                                     </div>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -710,7 +710,7 @@ export default function Work() {
                                     </div>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -733,7 +733,7 @@ export default function Work() {
                                     </div>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -762,7 +762,7 @@ export default function Work() {
                                     </div>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -815,7 +815,7 @@ export default function Work() {
                                     </div>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -850,7 +850,7 @@ export default function Work() {
                                     </div>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -867,7 +867,7 @@ export default function Work() {
                                     </div>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -885,7 +885,7 @@ export default function Work() {
                                     </a>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                             <details className="w-full rounded-lg ring-1 ring-purple-600">
@@ -903,7 +903,7 @@ export default function Work() {
                                     </a>
                                 </div>
                                 <div className='px-4 py-6 pt-0 ml-4 mt-4 align-items-center'>
-                                    <a className="text-pink-500" href='/Skills'>Back to Skills Page</a>
+                                    <a className="text-pink-500" href='/skills'>Back to Skills Page</a>
                                 </div>
                             </details>
                         </div>
