@@ -5,6 +5,7 @@ import Animation2 from '../assets/projects/Animations/Reality check best (2).mp4
 
 import BusinessCard1 from '../assets/projects/Business cards/Image01.webp'
 import BusinessCard2 from '../assets/projects/Business cards/Image02.webp'
+import BusinessCard3 from '../assets/projects/Business cards/Image03.webp'
 
 import DigitalArt1 from '../assets/projects/Digital art/Image01.webp'
 import DigitalArt2 from '../assets/projects/Digital art/Image02.webp'
@@ -95,6 +96,11 @@ export default function Work() {
     const onOpenModal1 = () => setOpen1(true);
     const onCloseModal1 = () => setOpen1(false);
 
+    const [open64, setOpen64] = useState(false);
+    const onOpenModal64 = () => setOpen64(true);
+    const onCloseModal64 = () => setOpen64(false);
+    
+    //NEW ADDITION
     const [open2, setOpen2] = useState(false);
     const onOpenModal2 = () => setOpen2(true);
     const onCloseModal2 = () => setOpen2(false);
@@ -450,6 +456,12 @@ export default function Work() {
                                         <button onClick={onOpenModal2}><img src={BusinessCard2} className="icon" alt="business card 2" /></button>
                                         <Modal open={open2} onClose={onCloseModal2} center>
                                             <img src={BusinessCard2} alt="business card 2" />
+                                        </Modal>
+                                        
+                                        {/* NEW ADDITION */}
+                                        <button onClick={onOpenModal64}><img src={BusinessCard3} className="icon" alt="business card 3" /></button>
+                                        <Modal open={open64} onClose={onCloseModal64} center>
+                                            <img src={BusinessCard3} alt="business card 3" />
                                         </Modal>
                                     </div>
                                 </div>
