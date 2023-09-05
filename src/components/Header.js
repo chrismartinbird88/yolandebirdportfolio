@@ -1,7 +1,7 @@
 import React from 'react';
 // import components
 import Socials from './Socials';
-import Logo from '../assets/logo-1.webp';
+import Logo from '../assets/Logo-1.webp';
 import MobileNav from './MobileNav';
 // import link
 import { Link } from 'react-router-dom';
